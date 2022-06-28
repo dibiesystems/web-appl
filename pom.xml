@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>TechDom Medical Services Snapshot Nexus Repository</name>
-	      <url>http://3.96.67.34:8081/repository/dubem-snapshot/</url>
+	      <url>http://3.96.67.34:8081/repository/dubem-SNAPSHOT/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
