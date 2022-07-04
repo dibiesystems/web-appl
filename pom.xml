@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>TechDom Medical Services Releases Nexus Repository</name>
-	      <url>http://172.31.8.212:8081/repository/dubem-release/</url>
+	      <url>http://172.31.8.212:8081/repository/techdom-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>TechDom Medical Services Snapshot Nexus Repository</name>
-	      <url>http://172.31.8.212:8081/repository/dubem-SNAPSHOT/</url>
+	      <url>http://172.31.8.212:8081/repository/techdom-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
